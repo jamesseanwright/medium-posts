@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jamesseanwright/medium-posts#readme",
   "dependencies": {
-    "mediumexporter": "git://github.com/xdamman/mediumexporter.git#v0.2.0"
+    "mediumexporter": "git://github.com/xdamman/mediumexporter.git#v0.2.0",
+    "request": "^2.88.0"
   }
 }
