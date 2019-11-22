@@ -1,0 +1,24 @@
+{
+  "name": "medium-posts",
+  "version": "1.0.0",
+  "description": "All of my Medium posts converted to Markdown",
+  "main": "index.js",
+  "scripts": {
+    "get-posts": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesseanwright/medium-posts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesseanwright/medium-posts/issues"
+  },
+  "homepage": "https://github.com/jamesseanwright/medium-posts#readme",
+  "dependencies": {
+    "mediumexporter": "git://github.com/xdamman/mediumexporter.git#v0.2.0"
+  }
+}

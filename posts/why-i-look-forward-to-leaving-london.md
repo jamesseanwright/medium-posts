@@ -1,0 +1,12 @@
+
+# Why I Look Forward to Leaving London
+
+## With trembling knees and a cane in his hand, an elderly fellow enters my carriage on this Piccadilly Line service to Uxbridge. Without wanting to convey a sense of entitlement, he shuffles around in the hope of encountering a kind commuter who will cede their seat. Within a couple of minutes, it becomes evident that no one is willing to stand, so, from another bank of seats, I offer my place, to a receipt of gratitude and a polite exchange.
+
+This event, amongst others, reinforces everything I hate about our capital. Most of its residents are so obsessed with their own situation that having a morsel of concern towards others is obsolete. If someone isn’t barging past you to reach a destination that’s insignificant in the long run, they’re failing to thank you when you get out of they way; this city is full of intelligent and talented, yet emotionally-stunted individuals, and I’m sick of it.
+
+I definitely don’t regret choosing to live here; I’ve met some brilliant people, I’ve opened my mind further to different cultures, and I’ve witnessed an incredibly diverse range of art in the medium of exhibitions, theatrical pieces, and gigs, and I’ve got some great names on my CV. But 5 years later, and here I am, actively demonstrating signs of apathy, misanthropy, and general exhaustion. I’m done.
+
+One would think that in a metropolitan area that’s home to 10 million people, it would be easy to become acquainted with people, but it isn’t; because one is find one’s own feet and following a chosen trajectory, most chance encounters fade to nothing, and friendships aren’t guaranteed to last due to the busy nature of life here. Thick streams of people with little space to step back and appreciate the heaviness of this urban setting result in constant movement until one has reached one’s destination. Even if said destination is a social environment, anyone who has been actively engaged in the London lifestyle is unable to break the shackles of this mindset.
+
+I have so many fond memories, and I really did grow and intellectually expand here, but I’ve learned enough lessons from this loveless place. I’m ecstatic to be returning to my home region next year, where, unbelievably, strangers can actually smile at and converse with one another.
